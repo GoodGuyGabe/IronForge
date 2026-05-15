@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927095501438",
+    "project_id": "ironforge-4750",
+    "storage_bucket": "ironforge-4750.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927095501438:android:d5ef66ab6e50227fb45e2f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_4750_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-WokvNgh4PTOXOd6S8cl_bkQzVQCh0eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
